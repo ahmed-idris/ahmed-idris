@@ -25,6 +25,7 @@
   - Windows
   - Linux
   - Development of cross-platform graphical applications with Qt, Gtk, Ftxui
+  - Development of decentralized p2p applications
 - Game development:
   - OpenGL
   - Unreal engine
