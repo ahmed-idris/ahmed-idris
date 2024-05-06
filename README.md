@@ -1,6 +1,6 @@
 <a href="https://www.codewars.com/users/ahmed-idris"><img alt="Visitor Stats" src="https://www.codewars.com/users/ahmed-idris/badges/large"/></a>
 
-## Computer science and Cyber security
+## Computer science & Cyber security
 > Contact email for freelance services: ahmed_dev@disroot.org
 
 ## Skills
